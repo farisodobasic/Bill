@@ -1,0 +1,12 @@
+c:\Billingg\Billingg.Repository\bin\Debug\Billingg.Repository.dll.config
+c:\Billingg\Billingg.Repository\bin\Debug\Billingg.Repository.dll
+c:\Billingg\Billingg.Repository\bin\Debug\Billingg.Repository.pdb
+c:\Billingg\Billingg.Repository\bin\Debug\Billingg.Database.dll
+c:\Billingg\Billingg.Repository\bin\Debug\EntityFramework.dll
+c:\Billingg\Billingg.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\Billingg\Billingg.Repository\bin\Debug\Billingg.Database.pdb
+c:\Billingg\Billingg.Repository\bin\Debug\EntityFramework.xml
+c:\Billingg\Billingg.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\Billingg\Billingg.Repository\obj\Debug\Billingg.Repository.csprojResolveAssemblyReference.cache
+c:\Billingg\Billingg.Repository\obj\Debug\Billingg.Repository.dll
+c:\Billingg\Billingg.Repository\obj\Debug\Billingg.Repository.pdb

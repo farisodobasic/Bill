@@ -1,0 +1,14 @@
+c:\Billingg\Billingg.Seed\bin\Debug\Billingg.Seed.exe.config
+c:\Billingg\Billingg.Seed\bin\Debug\Billingg.Seed.exe
+c:\Billingg\Billingg.Seed\bin\Debug\Billingg.Seed.pdb
+c:\Billingg\Billingg.Seed\bin\Debug\Billingg.Database.dll
+c:\Billingg\Billingg.Seed\bin\Debug\EntityFramework.dll
+c:\Billingg\Billingg.Seed\bin\Debug\EntityFramework.SqlServer.dll
+c:\Billingg\Billingg.Seed\bin\Debug\Billingg.Database.pdb
+c:\Billingg\Billingg.Seed\bin\Debug\EntityFramework.xml
+c:\Billingg\Billingg.Seed\bin\Debug\EntityFramework.SqlServer.xml
+c:\Billingg\Billingg.Seed\obj\Debug\Billingg.Seed.csprojResolveAssemblyReference.cache
+c:\Billingg\Billingg.Seed\obj\Debug\Billingg.Seed.exe
+c:\Billingg\Billingg.Seed\obj\Debug\Billingg.Seed.pdb
+c:\Billingg\Billingg.Seed\bin\Debug\Billingg.Repository.dll
+c:\Billingg\Billingg.Seed\bin\Debug\Billingg.Repository.pdb

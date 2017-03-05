@@ -1,0 +1,16 @@
+c:\Billingg\Billingg.Database\bin\Debug\Billingg.Database.dll.config
+c:\Billingg\Billingg.Database\bin\Debug\Billingg.Database.dll
+c:\Billingg\Billingg.Database\bin\Debug\Billingg.Database.pdb
+c:\Billingg\Billingg.Database\bin\Debug\EntityFramework.dll
+c:\Billingg\Billingg.Database\bin\Debug\EntityFramework.SqlServer.dll
+c:\Billingg\Billingg.Database\bin\Debug\EntityFramework.xml
+c:\Billingg\Billingg.Database\bin\Debug\EntityFramework.SqlServer.xml
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.csprojResolveAssemblyReference.cache
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.dll
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.pdb
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.Migrations.InitialCreate.resources
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.csproj.GenerateResource.Cache
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.Migrations.farisNo1.resources
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.Migrations.farisNo3.resources
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.Migrations.farisNo4.resources
+c:\Billingg\Billingg.Database\obj\Debug\Billingg.Database.Migrations.farisNo5.resources
